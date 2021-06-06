@@ -41,6 +41,7 @@ At one point, some of them, or at least earlier versions, formed a "toolkit". Ma
 * Get-EnvironmentResourceAudit.ps1    :- Memory and CPU audit per cluster
 * Get-HostMaintenanceModeCheck.ps1    :- Check if host should be able to enter maintenance mode 
 * Get-HADRS.ps1                       :- Summary of HA and DRS settings for clusters.
+* Get-VCVersion.ps1                   :- Returns vCenter name, version and build number.
 
 ## Networking
 * Get-VMKInfo.ps1                     :- vmk info for hosts - wrapper mainly to Get-VMHostNetworkAdapter
