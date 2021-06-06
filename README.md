@@ -28,6 +28,7 @@ At one point, some of them, or at least earlier versions, formed a "toolkit". Ma
 * Get-VMsOnHost.ps1                   :- List all VMs on specified host, ordered by powerstate.
 * Get-MyDatastore.ps1                 :- get-datastore but with figures rounded and percentage usage. 
 * Get-DatastoreFileList               :- creates a .csv file with all the files in a specified datastore.
+* Get-WWNs                            :- Get host WWNs for all hosts in specified cluster or vCenter
 
 ## Host
 * Get-VMHostUptime.ps1                :- get host boot time and calculated uptime.
