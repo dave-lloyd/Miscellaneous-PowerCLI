@@ -47,3 +47,4 @@ At one point, some of them, or at least earlier versions, formed a "toolkit". Ma
 
 ## Networking
 * Get-VMKInfo.ps1                     :- vmk info for hosts - wrapper mainly to Get-VMHostNetworkAdapter
+* Get-VMNIC.ps1                       :- Return VM NIC details for specified VM, VMs in specified cluster or all VMs in environment.
