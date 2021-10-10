@@ -19,6 +19,7 @@ At one point, some of them, or at least earlier versions, formed a "toolkit". Ma
 * Get-VMsOnDatastore.ps1              :- for a given VM, return details about the datastore AND list of all other VMs on that datastore.
 * Get-VMEvents.ps1                    :- get tasks and events messages for specified VM.
 * Get-VMHARestarts.ps1                :- returns or generates report of VM HA restarts events - in the event of a host failure/issue.
+* Get-VMHardwareVersion.ps1           :- Returns VM hardware version for given VM, VMs in cluster or all VMs in environment.
 
 ## Snapshots
 * Get-SnapshotReport.ps1              :- Snapshot report for either VM or all VMs. Can be exported to .xlsx using Export-Excel
